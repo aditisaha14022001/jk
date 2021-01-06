@@ -1,0 +1,194 @@
+
+body{
+    background-image: url("https://i.pinimg.com/originals/c6/78/be/c678beaee310ae9133259c61bc898ada.jpg"), url("painting.gif");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+
+}
+
+
+
+h1{
+    font-family: "Pirata One script=latin rev=1";
+    font-weight: bolder;
+    font-style: normal;
+    
+    text-decoration: underline;
+    text-align: center;
+    text-shadow: 1px 1px 2px rgb(12, 12, 12), 0 0 1em rgb(253, 253, 255), 0 0 0.2em rgb(252, 252, 252);
+    
+}
+h2 a{
+
+    color:rgb(38, 7, 109);
+    text-align: center;
+    font-weight: bolder;
+
+}
+h2 a:hover{
+    color:rgb(9, 255, 0) ;
+    
+}
+
+h2{
+    font-family: "Libre Baskerville script=latin rev=1";
+    font-weight: bolder;
+    font-style: italic;
+    color:rgb(168, 14, 73);
+    text-decoration: underline;
+    text-align: center;
+}
+ h2:hover{
+     color: rgb(199, 253, 5);
+ }
+
+h3{
+
+    font-family: "Dancing Script script=latin rev=1";
+    font-weight: bolder;
+    font-style: italic;
+    color: rgb(1, 5, 17);
+    text-decoration: none;
+    text-align: center;
+    text-shadow: rgb(203, 248, 4) 1px 0 10px;
+    
+}
+
+ul li a{
+
+
+    font-weight: bolder;
+    text-decoration: dotted;
+    color: darkorchid;
+    margin: 30px;
+    font-size: x-large;
+
+}
+
+
+ul li a:hover{
+    color:tomato;
+    
+    
+    font-weight: bolder;
+}
+h4 a{
+    font-weight: bolder;
+    text-decoration: dotted;
+    color: darkorchid;
+    margin: 30px;
+
+}
+
+h4 a:hover{
+    color:tomato;
+    text-decoration: none;
+}
+.theheart{
+    border-radius: 30px;
+    box-shadow: 10px 10px rgb(43, 78, 61);
+    margin-left: 30px;
+}
+.theheart:hover
+{
+
+box-shadow: 10px 10px 10px 10px rgb(42, 75, 60);
+ 
+}
+.themask
+{
+    box-shadow: 10px 10px  grey;
+    margin-left: 50px;
+    border-radius: 30px;
+}
+.themask:hover
+{
+ box-shadow: 10px 10px 10px 10px slategrey;
+}
+
+
+.rabindranath
+{
+    box-shadow: 10px 10px  grey;
+    margin-left: 50px;
+    border-radius: 30px;
+}
+.rabindranath:hover
+{
+ box-shadow: 10px 10px 10px 10px slategrey;
+}
+.potrait
+{
+    border-radius: 30px;
+    margin-left: 50px;
+    box-shadow: 10px 10px rgb(43, 78, 61);
+}
+.potrait:hover
+{
+    box-shadow: 10px 10px 10px 10px rgb(42, 75, 60);
+}
+.krishna
+{
+    border-radius: 30px;
+    margin-left: 50px;
+    box-shadow: 10px 10px rgb(43, 78, 61);
+}
+.krishna:hover
+{
+    box-shadow: 10px 10px 10px 10px rgb(42, 75, 60);
+}
+.mamon
+{
+    border-radius: 30px;
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+ 
+    box-shadow: 10px 10px rgb(90, 97, 93);
+}
+.mamon:hover
+{
+    animation: shake 0.5s;
+
+  animation-iteration-count: infinite;
+    box-shadow: 10px 10px 10px 10px rgb(241, 87, 121);
+}
+@keyframes shake {
+    0% { transform: translate(1px, 1px) rotate(0deg); }
+    10% { transform: translate(-1px, -2px) rotate(-1deg); }
+    20% { transform: translate(-3px, 0px) rotate(1deg); }
+    30% { transform: translate(3px, 2px) rotate(0deg); }
+    40% { transform: translate(1px, -1px) rotate(1deg); }
+    50% { transform: translate(-1px, 2px) rotate(-1deg); }
+    60% { transform: translate(-3px, 1px) rotate(0deg); }
+    70% { transform: translate(3px, 1px) rotate(-1deg); }
+    80% { transform: translate(-1px, -1px) rotate(1deg); }
+    90% { transform: translate(1px, 2px) rotate(0deg); }
+    100% { transform: translate(1px, -2px) rotate(-1deg); }
+  }
+.gif{
+    border-radius: 30px;
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+ 
+}
+.gif:hover
+{
+    box-shadow: 10px 10px 10px 10px rgb(241, 87, 121);
+}
+ol li {
+    font-size: x-large;
+    font-weight: bolder;
+}
+p{
+    font-size: x-large;
+}
+a{
+    font-family: "Cookie script=latin rev=1";
+    font-weight: bolder;
+    font-style: italic;
+   
+    text-decoration: mediumblue;
+}
